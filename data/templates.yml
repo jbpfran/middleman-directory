@@ -575,3 +575,9 @@
   links:
     github: https://github.com/jbpfran/middleman-stimulus-tailwind
   tags: ['Sass', 'Turbo', 'Stimulus', 'Tailwind CSS', 'Webpack', 'HAML']
+-
+  name: Middleman Template with Turbo, Stimulus 3 and Tailwind CSS
+  description: Template with a Vite external pipeline and ready to use Turbo, Stimulus 3 and Tailwind CSS.
+  links:
+    github: https://gitlab.com/jbpfran/mm-vite-hotwire-tailwind
+  tags: ['Sass', 'Turbo', 'Stimulus', 'Tailwind CSS', 'Vite', 'HAML', 'Gitlab CI']
